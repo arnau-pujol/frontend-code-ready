@@ -1,0 +1,1 @@
+console.log('Front-end boilerplate up and running!');
