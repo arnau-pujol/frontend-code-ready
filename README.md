@@ -1,6 +1,6 @@
-# Frontend Boilerplate
+# Front-End Code Ready Boilerplate
 
-A basic multipurpose boilerplate to let you focus on code.
+Yet another front-end boilerplate to let you focus on code.
 
 ## Features
 
@@ -8,7 +8,7 @@ A basic multipurpose boilerplate to let you focus on code.
 * [Postcss][postcss] optimizing the CSS with [autoprefixer][autoprefixer], [css-mqpacker][css-mqpacker]
 * JS transpilation with [Webpack][webpack] and [Babel][babel]
 * [Jest][jest] up and running for tests
-* Integrated server with hot reload, powered by [webpack-dev-server][webpack-dev-server]
+* Integrated server with hot reload, powered by [nodemon][nodemon]
 * [Prettier][jest] code formatting ready using a precommit hook and [travis][travis]
 * Ready for production build with minified code using [terser][terser]
 * Static build output
@@ -35,4 +35,4 @@ A basic multipurpose boilerplate to let you focus on code.
 [prettier]: https://prettier.io/
 [travis]: https://travis-ci.com/
 [terser]: https://github.com/webpack-contrib/terser-webpack-plugin
-[webpack-dev-server]: https://github.com/webpack/webpack-dev-server
+[nodemon]: https://nodemon.io/

@@ -1,7 +1,7 @@
 {
   "name": "frontend-code-ready",
-  "description": "A basic multipurpose boilerplate powered with Sass & Webpack, Babel ES6/7 support and live reload. Testing ready with Jest",
-  "version": "1.0.0",
+  "description": "Yet another front-end boilerplate to let you focus on code. Powered by Sass & Webpack, Babel ES6/7 support and live reload. Testing ready with Jest.",
+  "version": "1.0.1",
   "author": {
     "name": "Arnau Pujol",
     "email": "hi@arnaupujol.com",
